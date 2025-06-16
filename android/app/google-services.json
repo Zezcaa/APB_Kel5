@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "45050059231",
+    "firebase_url": "https://healtycarefirebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "healtycarefirebase",
+    "storage_bucket": "healtycarefirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45050059231:android:8c3e6d370d07df779c4c6a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tubes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzY0XoyK4KDJr6v7wYXrGAnUXki_5ssSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
